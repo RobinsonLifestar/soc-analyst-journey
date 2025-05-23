@@ -3,6 +3,7 @@
 – Week 1
 
 👋 Hello and Welcome!
+
 This is Robert from Hungary, and I'm preparing for a career in cybersecurity, focusing on SOC Analyst and PCI DSS paths.
 
 ## 🔍 Week 1: Exploring the Basics
