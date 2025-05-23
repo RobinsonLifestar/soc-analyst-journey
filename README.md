@@ -4,7 +4,7 @@
 
 👋 Hello and Welcome!
 
-This is Robert from Hungary, and I'm preparing for a career in cybersecurity, focusing on SOC Analyst and PCI DSS paths.
+This is Robert from Hungary, and I'm preparing for a career in cybersecurity, focusing on SOC Analyst & PCI DSS paths.
 
 ## 🔍 Week 1: Exploring the Basics
 - Created my GitHub account ✅
