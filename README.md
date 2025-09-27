@@ -2,7 +2,14 @@
 
 👋 Hello and Welcome!
 
-This is Robert from Hungary, I'm preparing for a career in cybersecurity, focusing on SOC Analyst.
+This is Robert from Hungary, I'm preparing for a career in cybersecurity, focusing on enter L1 SOC Analyst.
+
+My Roadmap:
+2026 SOC Analyst (L1)
+2027 SOC Analyst (L2)
+2029 Incident Responder
+2031 Detection Engineer/Threat Hunter (AI-driven)
+2033 Team Lead / Specialist (AI & SOC integration).
 
 ## 🎯 Long-Term Goals
 - Build solid foundations in SOC topics  
