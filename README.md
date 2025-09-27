@@ -2,10 +2,10 @@
 
 👋 Hello and Welcome!
 
-This is Robert from Hungary, I'm preparing for a career in cybersecurity, focusing on SOC Analyst & PCI DSS paths.
+This is Robert from Hungary, I'm preparing for a career in cybersecurity, focusing on SOC Analyst.
 
 ## 🎯 Long-Term Goals
-- Build solid foundations in SOC and PCI DSS topics  
+- Build solid foundations in SOC topics  
 - Improve analytical thinking and decision making  
 - Practice hands-on tools and documentation  
 - Build up a strong portfolio over time  
@@ -21,3 +21,4 @@ This is Robert from Hungary, I'm preparing for a career in cybersecurity, focusi
 - Share progress publicly to build consistency  
 
 Stay tuned as I grow! 🚀
+
